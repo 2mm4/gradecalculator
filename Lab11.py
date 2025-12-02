@@ -1,7 +1,7 @@
 import os
 import matplotlib.pyplot as plt
 
-#s : name and 3num id
+#s : name and 3num ids
 #a : name, p val, 5num id. q 8 4num. up to 1000
 
 
